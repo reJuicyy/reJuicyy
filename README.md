@@ -4,7 +4,7 @@
 
 <li> 💻 Currently studying Computer Science</li>
 <li> 🧠 Actively learning maths and playing the Piano</li>
-<li> ❤️ Maths, playing the Piano and Coding</li>
+<li> ❤️ Maths, playing the Piano and Programming</li>
 
 <br/>
 <h2><b>Main Languages and Tools</b></h2>
